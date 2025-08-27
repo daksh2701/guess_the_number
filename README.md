@@ -61,32 +61,6 @@ Guess the mystery number between 1 and 100 in the fewest attempts possible!
 - Python 3.7 or higher
 - pip (Python package installer)
 
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/guess-the-number-game.git
-   cd guess-the-number-game
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install streamlit
-   ```
-
-   Or using requirements.txt:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### 🏃‍♂️ Running the Game
-
-To start the Number Guessing Game on your localhost:
-
-```bash
-streamlit run app.py
-```
-
 **Note**: This is a Streamlit web application that runs on localhost. After running the command, Streamlit will automatically open your browser to `http://localhost:8501` where you can play the game.
 
 The terminal will display:
